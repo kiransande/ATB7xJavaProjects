@@ -12,6 +12,10 @@ public class Lab011 {
         System.out.println("Pramod" + c1 + "Dutta");
         System.out.println("Pramod" + c + "Dutta");
 
+        String str2=null;
+        System.out.println(str2);
+
+
 
     }
 }
